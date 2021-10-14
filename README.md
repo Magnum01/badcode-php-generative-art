@@ -4,9 +4,9 @@
 
 ## Быстрый запуск с помощью Docker:
 
-docker build -t php-generative-art-app .
+```docker build -t php-generative-art-app .```
 
-docker run -d -p 8080:80 -v "$PWD":/var/www/html php-generative-art-ap
+```docker run -d -p 8080:80 -v "$PWD":/var/www/html php-generative-art-ap```
 
 Полезная [статья по изучения Докера](https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/) для новичков.
 
