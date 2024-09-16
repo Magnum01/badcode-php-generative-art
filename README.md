@@ -6,7 +6,7 @@
 
 ```docker build -t php-generative-art-app .```
 
-```docker run -d -p 8080:80 -v «$PWD»:/var/www/html php-generative-art-ap```.
+```docker run -d -p 8080:80 -v "$PWD":/var/www/html php-generative-art-ap```.
 
 Корисна [стаття з вивчення Докера](https://badtry.net/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/) для новачків.
 
