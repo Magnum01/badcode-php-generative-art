@@ -11,6 +11,6 @@
 Корисна [стаття з вивчення Докера](https://badtry.net/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/) для новачків.
 
 ## Матеріал
-Написано [для статті badtry.net з генеративного мистецтва на PHP](https://badcode.ru/gienieriruiem-piksielnyie-izobrazhieniia-s-pomoshchiu-php-ghienierator-avatarok-i-piksielnykh-ghorodov-ghienierativnyi-art-php)
+Написано [для статті badtry.net з генеративного мистецтва на PHP](https://badtry.net/gienieriruiem-piksielnyie-izobrazhieniia-s-pomoshchiu-php-ghienierator-avatarok-i-piksielnykh-ghorodov-ghienierativnyi-art-php)
 
 За основу взято матеріал статті та код [Репозиторію](https://github.com/BinaryMoon/php-generative-art/tree/main/image-stacks)
